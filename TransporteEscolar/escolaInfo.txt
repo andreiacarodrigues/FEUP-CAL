@@ -1,0 +1,39 @@
+Escola 55
+=========================
+55-jj-12 10
+36-df-85 10
+37-ji-09 10
+=========================
+35  
+38  
+215  
+229  
+270  
+=========================
+24
+1 Ines Gomes;229 55
+2 Catarina Ramos;35 55
+3 Andreia Rodrigues;270 55
+4 Joao Carvalho;35 55
+5 Carlos Carvalho;215 55
+6 Diana Teixeira;229 55
+7 Antonio Lemos;215 55
+8 Jose Oliveira;38 55
+9 Maria Barros;229 55
+10 Patricia Barros;270 55
+11 Ines Guerra;270 55
+12 Eduardo Leite;38 55
+13 Francisco Queiros;35 55
+14 Miguel Freitas;229 55
+15 Manuel Almeida;38 55
+16 Manuel Carvalho;270 55
+17 Rodrigo Rafael;35 55
+18 Samuel Simao;229 55
+19 Carolina Teixeira;229 55
+20 Carolina Almeida;35 55
+21 Carlota Almeida;229 55
+22 Mario Gustavo;270 55
+23 Mariana Barros;35 55
+21 Carlota Almeida;229 55
+22 Mario Gustavo;270 55
+23 Mariana Barros;35 55

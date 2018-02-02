@@ -1,0 +1,31 @@
+Empresa 299
+=========================
+a 50
+=========================
+=========================
+12
+1Penelope	Glover;114 150
+2Lauren	Baker;29 150
+3Zoe	Johnston;256 150
+4Tracey	Lawrence;228 150
+5Ryan	Gill;92 150
+6Jasmine	Fisher;159 150
+7Stewart	Knox;84 150
+8Molly	King;160 150
+9Charles	Ferguson;183 150
+10Audrey	Oliver;270 150
+00 Audrey	Oliver;15241 31039;270 150s;229 223
+10 Patricia Barros;270 98
+11 Ines Guerra;270 223
+12 Eduardo Leite;38 223
+13 Francisco Queiros;35 202
+14 Miguel Freitas;229 98
+15 Manuel Almeida;38 223
+16 Manuel Carvalho;270 98
+17 Rodrigo Rafael;35 202
+18 Samuel Simao;229 98
+19 Carolina Teixeira;229 98
+20 Carolina Almeida;35 202
+21 Carlota Almeida;229 98
+22 Mario Gustavo;270 223
+23 Mariana Barros;35 202
